@@ -30,9 +30,9 @@ Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i sz
 
      -logowanie
      
-     -zarządzanie (CRUD) administratorów & (CRUD) zaufanych instytucji
+     -zarządzanie (CRUD) administratorów & (CRUD) zaufanych instytucji & (CRUD) instytucji
      
-     -przegląd złożonych darów
+     -przegląd oddanych rzeczy
      
 -User profile
 
@@ -48,17 +48,17 @@ Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i sz
      
 -Additional perks
 
-    -archiwizacja darow
+    -archiwizacja darow (is taken)
     
-    -edycja własnego profilu
+    -edycja własnego profilu (profile pic)
     
-    -potwierdzenie oraz aktywacja konta poprzez email podany przy rejestracji
+    -potwierdzenie oraz aktywacja konta poprzez email podany przy rejestracji (django build in)
     
-    -obsługa zapomnianych haseł
+    -obsługa zapomnianych haseł (email notification)
     
-    -emial przypominajacy o powrocie do serwisu
+    -emial przypominajacy o powrocie do serwisu (crone scheduled tasks, tbd - docker scheduled tasks)
     
-    -wersja hiszpanska (castellano)
+    -Spanish version castellano (gettext) > tbd  French version
     
     
      
