@@ -2,7 +2,9 @@
 
 Application that facilitates giveaways to NGOs.
 
-Requirements: Django 2.2.7+; Django REST; Python 3.5, PostgreSQL; HTML5/ CSS3/ JS ES6; Crone; AJAX; gettext (Spanish)
+Requirements: 
+Django 2.2.7+; Django REST; Python 3.5, PostgreSQL; HTML5/ CSS3/ JS ES6; Crone; AJAX; gettext (Spanish)
+
 Trello project management 
 
 **!CODE ON DEMAND > Interested? Please contact me to see the code**
