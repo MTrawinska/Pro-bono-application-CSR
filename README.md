@@ -48,9 +48,9 @@ Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i sz
      
 - Additional perks
 
-    -archiwizacja darow (is taken)
+    -archiwizacja darow ('-is taken' as listed out)
     
-    -edycja własnego profilu (profile pic)
+    -edycja własnego profilu (eg. profile pic)
     
     -potwierdzenie oraz aktywacja konta poprzez email podany przy rejestracji (django build in)
     
