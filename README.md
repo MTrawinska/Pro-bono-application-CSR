@@ -19,12 +19,19 @@ Maksymalne uproszczenie procesu przekazania rzeczy oraz stworzenie gotowej listy
 
 Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i szybki sposób oddać niechciane rzeczy zaufanym instytucjom.
 
+
 -Functional demand:
+
 -Landing page(main)
+
 -Admin profile:
+
      -logowanie
+     
      -zarządzanie (CRUD) administratorów & (CRUD) zaufanych instytucji
+     
      -przegląd złożonych darów
+     
 -User profile
      -rejestration
      -login
