@@ -22,11 +22,11 @@ Maksymalne uproszczenie procesu przekazania rzeczy oraz stworzenie gotowej listy
 Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i szybki sposób oddać niechciane rzeczy zaufanym instytucjom.
 
 
--Functional demand:
+3. Functional demand:
 
--Landing page(main)
+- Landing page(main)
 
--Admin profile:
+- Admin profile:
 
      -logowanie
      
@@ -34,7 +34,7 @@ Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i sz
      
      -przegląd oddanych rzeczy
      
--User profile
+- User profile
 
      -rejestration
      
@@ -46,7 +46,7 @@ Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i sz
      
      -przegląd oddanych darów
      
--Additional perks
+- Additional perks
 
     -archiwizacja darow (is taken)
     
