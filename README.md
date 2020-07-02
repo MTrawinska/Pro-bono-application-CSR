@@ -11,7 +11,7 @@ Trello project management
 
 LIVE VERSION (tbd)
 
-## Polish/ English below (tbd)
+## Polish/ English below (in progress)
 
 1. Intro:
 
