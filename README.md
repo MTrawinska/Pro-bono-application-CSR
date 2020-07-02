@@ -33,18 +33,31 @@ Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i sz
      -przegląd złożonych darów
      
 -User profile
+
      -rejestration
+     
      -login
+     
      -walidacja poprawnego podania dwóch identycznych haseł
+     
      -dodawanie darów (AJAX)
+     
      -przegląd oddanych darów
+     
 -Additional perks
+
     -archiwizacja darow
+    
     -edycja własnego profilu
+    
     -potwierdzenie oraz aktywacja konta poprzez email podany przy rejestracji
+    
     -obsługa zapomnianych haseł
+    
     -emial przypominajacy o powrocie do serwisu
+    
     -wersja hiszpanska (castellano)
+    
     
      
 
