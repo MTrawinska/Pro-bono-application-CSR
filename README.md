@@ -9,12 +9,12 @@ Trello project management
 
 LIVE VERSION (tbd)
 
-Polish/ English below (tbd)
+## Polish/ English below (tbd)
 
-Intro:
+:Intro:
 Maksymalne uproszczenie procesu przekazania rzeczy oraz stworzenie gotowej listy zweryfikowanych fundacji. Dzięki temu użytkownik zostanie zachęcony do oddania swoich niechcianych rzeczy oraz będzie miał zaufanie do wybranych instytucji. 
 
-Aim:
+:Aim:
 Stworzenie przestrzeni, dzięki której użytkownik będzie mógł w prosty i szybki sposób oddać niechciane rzeczy zaufanym instytucjom.
 
 Functional demand:
